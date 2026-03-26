@@ -965,11 +965,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 44c73c16-b072-4f09-bd61-e3c158fb6c01
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: com.unity.vr-multiplayer
-  organizationId: 
+  projectName: WildTouch VR
+  organizationId: ignatusgg
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
